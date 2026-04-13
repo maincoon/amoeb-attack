@@ -1,0 +1,19 @@
+{
+    "name": "Amoeb Attack",
+    "short_name": "AmoebAttack",
+    "description": "Arcade microscope defense game about blasting math amoebas.",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "landscape",
+    "background_color": "#aebdc7",
+    "theme_color": "#13242d",
+    "icons": [
+        {
+            "src": "./assets/icon.png",
+            "sizes": "1024x1024",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ]
+}
